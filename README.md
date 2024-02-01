@@ -1,0 +1,3 @@
+- 👋 Oal
+- 📫 Aprendiendo Java, JavaScript, Php, Html.
+- ⚡ Wasa
